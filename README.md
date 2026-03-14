@@ -33,7 +33,6 @@ Bu proje, HTML ve CSS bilgilerini pekiştirmek için yapılmıştır. Tasarım s
 udemigedu/
 ├─ index.html
 ├─ style.css
-├─ script.js
 ├─ README.md
 └─ images/
 └─ udemig.gif
