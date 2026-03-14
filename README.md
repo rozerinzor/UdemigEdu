@@ -14,7 +14,7 @@
 ---
 
 ## 🎬 Demo
-![Projeden Görüntü](images/udemig.gif)
+![Projeden Görüntü](images/udemigEdu.gif)
 
 ---
 
